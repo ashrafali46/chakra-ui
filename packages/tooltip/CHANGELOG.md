@@ -1,5 +1,22 @@
 # Change Log
 
+## 1.1.1
+
+### Patch Changes
+
+- [`a023a269f`](https://github.com/chakra-ui/chakra-ui/commit/a023a269ffe0efdae74be3de28e41790c9a5ca8a)
+  [#3278](https://github.com/chakra-ui/chakra-ui/pull/3278) Thanks
+  [@dodas](https://github.com/dodas)! - Fixed an issue where a `Tooltip` with
+  negative `gutter` causes flickering on hover.
+- Updated dependencies
+  [[`ff4a36bca`](https://github.com/chakra-ui/chakra-ui/commit/ff4a36bca11cc177830f6f1da13700acd1e3a087),
+  [`483687237`](https://github.com/chakra-ui/chakra-ui/commit/483687237f2c4fed05dc6a79693f307c601c1285)]:
+  - @chakra-ui/utils@1.1.1
+  - @chakra-ui/visually-hidden@1.0.4
+  - @chakra-ui/hooks@1.1.4
+  - @chakra-ui/popper@1.1.3
+  - @chakra-ui/portal@1.1.1
+
 ## 1.1.0
 
 ### Minor Changes
